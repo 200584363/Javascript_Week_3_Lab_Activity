@@ -2,7 +2,7 @@
 
 # Array Challenge Output:
 <center>
-<img src="Output Screenshots/array challenge.png" alt="img1" width="500" height="500"/>
+<img src="Output Screenshots/array challenge.png" alt="img1" width="500"/>
 
 # Object Challenge Output:
 <img src="Output Screenshots/object challenge.png" alt="img2"/>
